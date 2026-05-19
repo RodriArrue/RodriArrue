@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Rodrigo Arrue 👋
+# Hey, I'm Rodrigo Arrue 
 
 **Backend & Fullstack Developer**
 
@@ -14,20 +14,20 @@
 
 ---
 
-## 🧑‍💻 About Me
+##  About Me
 
 I'm a **Higher Technician in Programming** from UTN, passionate about building clean, scalable, and well-structured backend systems.
 
 I enjoy working close to the architecture layer — designing REST APIs, implementing security patterns, and organizing code that's easy to maintain and extend. I'm currently looking for my first professional role as a **Backend or Fullstack Developer**.
 
-- 🔭 Currently working on improving my microservices architecture skills
-- 🌱 Learning more about TypeScript, system design, and cloud deployment
-- 💬 Ask me about Node.js, REST APIs, or backend architecture
-- 📫 Reach me at **arruerodrigo28@gmail.com**
+-  Currently working on improving my microservices architecture skills
+-  Learning more about TypeScript, system design, and cloud deployment
+-  Ask me about Node.js, REST APIs, or backend architecture
+-  Reach me at **arruerodrigo28@gmail.com**
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Languages**
 
@@ -62,9 +62,9 @@ I enjoy working close to the architecture layer — designing REST APIs, impleme
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🗓️ [Booking Management System API](https://github.com/RodriArrue/backend-reservas-api)
+###  [Booking Management System API](https://github.com/RodriArrue/backend-reservas-api)
 REST API for managing resource reservations (rooms, desks, offices) with enterprise-grade security.
 - JWT auth with Access + Refresh token rotation · Role-based access control · Conflict detection
 - CSRF protection · Rate limiting · XSS sanitization · Account lockout
@@ -74,7 +74,7 @@ REST API for managing resource reservations (rooms, desks, offices) with enterpr
 
 ---
 
-### 🔐 [User Management API — RBAC](https://github.com/RodriArrue/Gestor-de-Usuarios)
+###  [User Management API — RBAC](https://github.com/RodriArrue/Gestor-de-Usuarios)
 REST API for complete user management with granular Role-Based Access Control at the `resource:action` level.
 - Full CRUD for users, roles, and permissions · Zod validation on every endpoint
 - Swagger/OpenAPI 3.0 docs (29 endpoints) · 147 tests (unit + integration)
@@ -84,7 +84,7 @@ REST API for complete user management with granular Role-Based Access Control at
 
 ---
 
-### 📦 [Inventory Management System — Microservices](https://github.com/RodriArrue/Gestor-de-Inventario)
+###  [Inventory Management System — Microservices](https://github.com/RodriArrue/Gestor-de-Inventario)
 Distributed backend system with an API Gateway and two independent services: User Management and Inventory Control.
 - Database-per-service pattern · Centralized JWT validation at the gateway
 - Transactional stock control with row-level locking · Low-stock alerts
@@ -94,7 +94,7 @@ Distributed backend system with an API Gateway and two independent services: Use
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
