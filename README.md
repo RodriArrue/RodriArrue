@@ -1,42 +1,113 @@
+<div align="center">
+
+# Hey, I'm Rodrigo Arrue 👋
+
+**Backend & Fullstack Developer**
+
+*Recently graduated from UTN · Building scalable APIs and distributed systems*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-arrue-a628ab3b2/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://perfil-web-peach.vercel.app/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arruerodrigo28@gmail.com)
+
+</div>
+
 ---
-name: frontend-design
-description: Create distinctive, production-grade frontend interfaces with high design quality. Use this skill when the user asks to build web components, pages, artifacts, posters, or applications (examples include websites, landing pages, dashboards, React components, HTML/CSS layouts, or when styling/beautifying any web UI). Generates creative, polished code and UI design that avoids generic AI aesthetics.
-license: Complete terms in LICENSE.txt
+
+## 🧑‍💻 About Me
+
+I'm a **Higher Technician in Programming** from UTN, passionate about building clean, scalable, and well-structured backend systems.
+
+I enjoy working close to the architecture layer — designing REST APIs, implementing security patterns, and organizing code that's easy to maintain and extend. I'm currently looking for my first professional role as a **Backend or Fullstack Developer**.
+
+- 🔭 Currently working on improving my microservices architecture skills
+- 🌱 Learning more about TypeScript, system design, and cloud deployment
+- 💬 Ask me about Node.js, REST APIs, or backend architecture
+- 📫 Reach me at **arruerodrigo28@gmail.com**
+
 ---
 
-This skill guides creation of distinctive, production-grade frontend interfaces that avoid generic "AI slop" aesthetics. Implement real working code with exceptional attention to aesthetic details and creative choices.
+## 🛠️ Tech Stack
 
-The user provides frontend requirements: a component, page, application, or interface to build. They may include context about the purpose, audience, or technical constraints.
+**Languages**
 
-## Design Thinking
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-Before coding, understand the context and commit to a BOLD aesthetic direction:
-- **Purpose**: What problem does this interface solve? Who uses it?
-- **Tone**: Pick an extreme: brutally minimal, maximalist chaos, retro-futuristic, organic/natural, luxury/refined, playful/toy-like, editorial/magazine, brutalist/raw, art deco/geometric, soft/pastel, industrial/utilitarian, etc. There are so many flavors to choose from. Use these for inspiration but design one that is true to the aesthetic direction.
-- **Constraints**: Technical requirements (framework, performance, accessibility).
-- **Differentiation**: What makes this UNFORGETTABLE? What's the one thing someone will remember?
+**Backend**
 
-**CRITICAL**: Choose a clear conceptual direction and execute it with precision. Bold maximalism and refined minimalism both work - the key is intentionality, not intensity.
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
-Then implement working code (HTML/CSS/JS, React, Vue, etc.) that is:
-- Production-grade and functional
-- Visually striking and memorable
-- Cohesive with a clear aesthetic point-of-view
-- Meticulously refined in every detail
+**Frontend**
 
-## Frontend Aesthetics Guidelines
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-Focus on:
-- **Typography**: Choose fonts that are beautiful, unique, and interesting. Avoid generic fonts like Arial and Inter; opt instead for distinctive choices that elevate the frontend's aesthetics; unexpected, characterful font choices. Pair a distinctive display font with a refined body font.
-- **Color & Theme**: Commit to a cohesive aesthetic. Use CSS variables for consistency. Dominant colors with sharp accents outperform timid, evenly-distributed palettes.
-- **Motion**: Use animations for effects and micro-interactions. Prioritize CSS-only solutions for HTML. Use Motion library for React when available. Focus on high-impact moments: one well-orchestrated page load with staggered reveals (animation-delay) creates more delight than scattered micro-interactions. Use scroll-triggering and hover states that surprise.
-- **Spatial Composition**: Unexpected layouts. Asymmetry. Overlap. Diagonal flow. Grid-breaking elements. Generous negative space OR controlled density.
-- **Backgrounds & Visual Details**: Create atmosphere and depth rather than defaulting to solid colors. Add contextual effects and textures that match the overall aesthetic. Apply creative forms like gradient meshes, noise textures, geometric patterns, layered transparencies, dramatic shadows, decorative borders, custom cursors, and grain overlays.
+**Databases**
 
-NEVER use generic AI-generated aesthetics like overused font families (Inter, Roboto, Arial, system fonts), cliched color schemes (particularly purple gradients on white backgrounds), predictable layouts and component patterns, and cookie-cutter design that lacks context-specific character.
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white)
 
-Interpret creatively and make unexpected choices that feel genuinely designed for the context. No design should be the same. Vary between light and dark themes, different fonts, different aesthetics. NEVER converge on common choices (Space Grotesk, for example) across generations.
+**Tools & DevOps**
 
-**IMPORTANT**: Match implementation complexity to the aesthetic vision. Maximalist designs need elaborate code with extensive animations and effects. Minimalist or refined designs need restraint, precision, and careful attention to spacing, typography, and subtle details. Elegance comes from executing the vision well.
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-Remember: Claude is capable of extraordinary creative work. Don't hold back, show what can truly be created when thinking outside the box and committing fully to a distinctive vision.
+---
+
+## 🚀 Featured Projects
+
+### 🗓️ [Booking Management System API](https://github.com/RodriArrue/backend-reservas-api)
+REST API for managing resource reservations (rooms, desks, offices) with enterprise-grade security.
+- JWT auth with Access + Refresh token rotation · Role-based access control · Conflict detection
+- CSRF protection · Rate limiting · XSS sanitization · Account lockout
+- Docker · Jest + Supertest · Clean Architecture (layered)
+
+`Node.js` `Express` `PostgreSQL` `Sequelize` `JWT` `Docker`
+
+---
+
+### 🔐 [User Management API — RBAC](https://github.com/RodriArrue/Gestor-de-Usuarios)
+REST API for complete user management with granular Role-Based Access Control at the `resource:action` level.
+- Full CRUD for users, roles, and permissions · Zod validation on every endpoint
+- Swagger/OpenAPI 3.0 docs (29 endpoints) · 147 tests (unit + integration)
+- Docker multi-stage build · Automatic audit logging
+
+`Node.js` `Express` `PostgreSQL` `Sequelize` `Zod` `Swagger` `Docker` `Jest`
+
+---
+
+### 📦 [Inventory Management System — Microservices](https://github.com/RodriArrue/Gestor-de-Inventario)
+Distributed backend system with an API Gateway and two independent services: User Management and Inventory Control.
+- Database-per-service pattern · Centralized JWT validation at the gateway
+- Transactional stock control with row-level locking · Low-stock alerts
+- 94 tests (unit + integration) · Full Docker Compose orchestration
+
+`Node.js` `Express` `PostgreSQL` `Docker Compose` `Microservices` `JWT` `Swagger` `Jest`
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Rodrigo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RodriArrue&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RodriArrue&layout=compact&theme=github_dark&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+*Open to backend and fullstack opportunities — let's connect!*
+
+</div>
