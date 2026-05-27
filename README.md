@@ -39,6 +39,7 @@ I enjoy working close to the architecture layer — designing REST APIs, impleme
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-000000?style=flat-square&logo=nestjs&logoColor=white)
 
 **Frontend**
 
