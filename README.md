@@ -10,17 +10,15 @@
 
 </div>
 
----
+--- 
 
-Hi there 👋
-
-🚀 About Me:
+About Me:
 
 Hi, I'm Rodrigo Arrue. I'm a backend developer focused on JavaScript and TypeScript, building REST APIs and backend systems with Node.js, Express, and NestJS. I work with SQL and NoSQL databases — mainly MongoDB — and use JWT for authentication. I'm also comfortable with Docker and Linux for development and deployment, and I have working knowledge of AWS for cloud infrastructure.
 
 I recently graduated with a University Technical Degree in Programming (Tecnicatura Universitaria en Programación) from the National Technological University (UTN). I don't have professional experience yet, so right now I'm focused on building solid personal projects, sharpening my skills, and applying clean code and best practices while I look for my first opportunity as a backend developer.
 
-💻 Tech Stack:
+Tech Stack:
 
 **Languages**
 
